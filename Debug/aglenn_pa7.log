@@ -1,0 +1,10 @@
+﻿  main.c
+  functions.c
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa7\aglenn_pa7\functions.c(106): warning C4028: formal parameter 1 different from declaration
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa7\aglenn_pa7\functions.c(441): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa7\aglenn_pa7\functions.c(475): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  aglenn_pa7.vcxproj -> C:\Users\Alex\Desktop\WSU_Sem_2\CPTS\aglenn_pa7\Debug\aglenn_pa7.exe
+  aglenn_pa7.vcxproj -> C:\Users\Alex\Desktop\WSU_Sem_2\CPTS\aglenn_pa7\Debug\aglenn_pa7.pdb (Full PDB)
